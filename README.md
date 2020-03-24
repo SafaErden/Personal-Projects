@@ -1,6 +1,6 @@
-# Project Name
+# Project Name (This is a Template README file)
 
-> One paragraph statement about the project.
+> Also index.html file contains direct links to all of my projects.
 
 ![screenshot](./app_screenshot.png)
 
