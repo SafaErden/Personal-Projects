@@ -1,74 +1,79 @@
-# Project Name (This is a Template README file)
+# This README file provides direct access to all my projects' source codes and their live links.
 
-> Also index.html file contains direct links to all of my projects.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+** Feel free to contribute and give feedbacks.
 
 
-## Getting Started
+## These projects are built with;
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- HTML,
+- CSS,
+- Javascript.
 
+## Repository and Live Demo access
 
-To get a local copy up and running follow these simple example steps.
+### Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem
+[Source](https://github.com/SafaErden/Mint.com-s-signup-page)
+[Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
-### Prerequisites
+### Youtube Player Page Replica - Collaborative Project - Safa and Hatem
+[Source](https://github.com/SafaErden/Youtube-Player-Page-Replica)
+[Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
 
-### Setup
+### Google Home Page Replica
+[Source](https://github.com/SafaErden/Google-Homepage-Replica)
+[Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
-### Install
+### Drum Kit
+[Source](https://github.com/SafaErden/Drum-Kit)
+[Live Demo](https://safaerden.github.io/Drum-Kit/)
+
+### Etch a Sketch
+[Source](https://github.com/SafaErden/Etch-a-sketch)
+[Live Demo](https://safaerden.github.io/Etch-a-sketch/)
+
+### Rock Paper Scissors
+[Source](https://github.com/SafaErden/Rock-Paper-Scissors)
+[Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
+
+### Draw Random Circles
+[Source](https://github.com/SafaErden/Draw-Random-Circles)
+[Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
+
+### Calculator
+[Source](https://github.com/SafaErden/Calculator)
+[Live Demo](https://safaerden.github.io/Calculator/)
+
+### Regex Validation Exapmle
+[Source](https://github.com/SafaErden/Regex-Validation-Exapmle)
+[Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+
+### Collaborative Project - Safa and Henrik
+[Source](https://github.com/SafaErden/Safa-and-Henrik)
+[Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
+
+### Collaborative Project - Safa and Abdelrahman
+[Source](https://github.com/SafaErden/Safa-and-Abdelrahman)
+[Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
 
 ### Usage
+Just download & clone or fork and alter however you want.
 
-### Run tests
+## 👤 Profile Pages
 
-### Deployment
+- Github: [@SafaErden](https://github.com/SafaErden)
+- Twitter: [@safaerden](https://twitter.com/safaerden)
+- Linkedin: [safaerden](https://www.linkedin.com/in/safaerden/)
+- MQL5: [safaerden](https://www.mql5.com/en/users/safaerden)
 
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
-
 ## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Give a ⭐️ if you like my projects!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+My projects are [MIT](lic.url) licensed.
