@@ -11,49 +11,27 @@
 
 ## Repository and Live Demo access
 
-### Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem
-[Source](https://github.com/SafaErden/Mint.com-s-signup-page)
-[Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
+-Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
-### Youtube Player Page Replica - Collaborative Project - Safa and Hatem
-[Source](https://github.com/SafaErden/Youtube-Player-Page-Replica)
-[Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
+-Youtube Player Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
 
-### Google Home Page Replica
-[Source](https://github.com/SafaErden/Google-Homepage-Replica)
-[Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
+-Google Home Page Replica [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
-### Drum Kit
-[Source](https://github.com/SafaErden/Drum-Kit)
-[Live Demo](https://safaerden.github.io/Drum-Kit/)
+-Drum Kit [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
 
-### Etch a Sketch
-[Source](https://github.com/SafaErden/Etch-a-sketch)
-[Live Demo](https://safaerden.github.io/Etch-a-sketch/)
+-Etch a Sketch [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
 
-### Rock Paper Scissors
-[Source](https://github.com/SafaErden/Rock-Paper-Scissors)
-[Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
+-Rock Paper Scissors [Source](https://github.com/SafaErden/Rock-Paper-Scissors) - [Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
 
-### Draw Random Circles
-[Source](https://github.com/SafaErden/Draw-Random-Circles)
-[Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
+-Draw Random Circles [Source](https://github.com/SafaErden/Draw-Random-Circles) - [Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
 
-### Calculator
-[Source](https://github.com/SafaErden/Calculator)
-[Live Demo](https://safaerden.github.io/Calculator/)
+-Calculator [Source](https://github.com/SafaErden/Calculator) - [Live Demo](https://safaerden.github.io/Calculator/)
 
-### Regex Validation Exapmle
-[Source](https://github.com/SafaErden/Regex-Validation-Exapmle)
-[Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+-Regex Validation Exapmle [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
-### Collaborative Project - Safa and Henrik
-[Source](https://github.com/SafaErden/Safa-and-Henrik)
-[Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
+-Collaborative Project - Safa and Henrik [Source](https://github.com/SafaErden/Safa-and-Henrik) - [Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
 
-### Collaborative Project - Safa and Abdelrahman
-[Source](https://github.com/SafaErden/Safa-and-Abdelrahman)
-[Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
+-Collaborative Project - Safa and Abdelrahman [Source](https://github.com/SafaErden/Safa-and-Abdelrahman) - [Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
 
 ### Usage
 Just download & clone or fork and alter however you want.
