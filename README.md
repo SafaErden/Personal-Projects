@@ -11,6 +11,8 @@
 
 ## Repository and Live Demo access
 
+-New York Times Article Page Replica - Collaborative Project - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
+
 -Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
 -Youtube Player Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
