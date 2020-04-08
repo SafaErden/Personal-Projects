@@ -21,6 +21,8 @@
 
 -Google Home Page Replica [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
+-Smashing Magazine Homepage Structure - Collaborative Project - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
+
 -Drum Kit [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
 
 -Etch a Sketch [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
