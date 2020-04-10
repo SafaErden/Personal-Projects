@@ -11,6 +11,8 @@
 
 ## Repository and Live Demo access
 
+-TheNextWeb Replica - Collaborative Project - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
+
 -Apple Homepage Replica - Solo Project - Safa [Source](https://github.com/SafaErden/Apple-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Apple-Homepage-Replica/)
 
 -New York Times Article Page Replica - Collaborative Project - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
