@@ -11,7 +11,7 @@
 
 ## Repository and Live Demo access
 
--Newsweek Replica - Solo Project - [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://rawcdn.githack.com/SafaErden/Newsweek/23127419cd29bf77533e45a772dd1cc6d4a2b78e/index.html)
+-Newsweek Replica - Solo Project - [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
 
 -TheNextWeb Replica - Collaborative Project - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
 
