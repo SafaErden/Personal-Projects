@@ -45,6 +45,8 @@
 
 -Collaborative Project - Safa and Abdelrahman [Source](https://github.com/SafaErden/Safa-and-Abdelrahman) - [Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
 
+-Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
+
 ### Usage
 Just download & clone or fork and alter however you want.
 
