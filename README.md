@@ -7,7 +7,8 @@
 
 - HTML,
 - CSS, Bootstrap,
-- Javascript.
+- Javascript,
+- Ruby.
 
 ## Repository and Live Demo access
 
@@ -24,6 +25,8 @@
 -Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
 -Youtube Player Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
+
+-Pure-CSS-Sidenav [Source](https://github.com/SafaErden/Pure-CSS-Sidenav) - [Live Demo](https://safaerden.github.io/Pure-CSS-Sidenav/)
 
 -Google Home Page Replica [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
