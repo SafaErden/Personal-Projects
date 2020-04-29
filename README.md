@@ -50,6 +50,8 @@
 
 -Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
 
+-Ruby - Enumerables Rewrite - Safa [Source](https://github.com/SafaErden/Enumerables) - [Live Demo](https://repl.it/@SafaErden/My-Enumerable-Methods)
+
 ### Usage
 Just download & clone or fork and alter however you want.
 
