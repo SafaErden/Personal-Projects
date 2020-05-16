@@ -12,37 +12,37 @@
 
 ## Repository and Live Demo access
 
--Microverse Summit 2020 - Capstone Project - [Source](https://github.com/SafaErden/Microverse-Summit) - [Live Demo](https://safaerden.github.io/Microverse-Summit/)
+-Microverse Summit 2020 - Capstone Project - Safa [Source](https://github.com/SafaErden/Microverse-Summit) - [Live Demo](https://safaerden.github.io/Microverse-Summit/)
 
--Newsweek Replica - Solo Project - [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
+-Newsweek Replica - Safa [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
 
--TheNextWeb Replica - Collaborative Project - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
+-TheNextWeb Replica - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
 
--Apple Homepage Replica - Solo Project - Safa [Source](https://github.com/SafaErden/Apple-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Apple-Homepage-Replica/)
+-Apple Homepage Replica - Safa [Source](https://github.com/SafaErden/Apple-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Apple-Homepage-Replica/)
 
--New York Times Article Page Replica - Collaborative Project - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
+-New York Times Article Page Replica - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
 
--Mint.com Signup Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
+-Mint.com Signup Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
--Youtube Player Page Replica - Collaborative Project - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
+-Youtube Player Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
 
--Pure-CSS-Sidenav [Source](https://github.com/SafaErden/Pure-CSS-Sidenav) - [Live Demo](https://safaerden.github.io/Pure-CSS-Sidenav/)
+-Pure-CSS-Sidenav - Safa [Source](https://github.com/SafaErden/Pure-CSS-Sidenav) - [Live Demo](https://safaerden.github.io/Pure-CSS-Sidenav/)
 
--Google Home Page Replica [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
+-Google Home Page Replica - Safa [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
--Smashing Magazine Homepage Structure - Collaborative Project - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
+-Smashing Magazine Homepage Structure - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
 
--Drum Kit [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
+-Drum Kit - Safa [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
 
--Etch a Sketch [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
+-Etch a Sketch - Safa [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
 
--Rock Paper Scissors [Source](https://github.com/SafaErden/Rock-Paper-Scissors) - [Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
+-Rock Paper Scissors - Safa [Source](https://github.com/SafaErden/Rock-Paper-Scissors) - [Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
 
--Draw Random Circles [Source](https://github.com/SafaErden/Draw-Random-Circles) - [Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
+-Draw Random Circles - Safa [Source](https://github.com/SafaErden/Draw-Random-Circles) - [Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
 
--Calculator [Source](https://github.com/SafaErden/Calculator) - [Live Demo](https://safaerden.github.io/Calculator/)
+-Calculator - Safa [Source](https://github.com/SafaErden/Calculator) - [Live Demo](https://safaerden.github.io/Calculator/)
 
--Regex Validation Exapmle [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+-Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
 -Collaborative Project - Safa and Henrik [Source](https://github.com/SafaErden/Safa-and-Henrik) - [Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
 
@@ -51,6 +51,12 @@
 -Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
 
 -Ruby - Enumerables Rewrite - Safa [Source](https://github.com/SafaErden/Enumerables) - [Live Demo](https://repl.it/@SafaErden/My-Enumerable-Methods)
+
+-Ruby - TicTacToe Game - Safa and Kevin [Source](https://github.com/SafaErden/TicTacToe) - [Live Demo](https://repl.it/@SafaErden/Tic-Tac-Toe)
+
+-Ruby - Battleship Game - Safa [Source](https://github.com/SafaErden/BattleShip) - [Live Demo](https://repl.it/@SafaErden/Battle-Ship)
+
+-Ruby - Mastermind Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Mastermind)
 
 ### Usage
 Just download & clone or fork and alter however you want.
