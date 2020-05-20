@@ -58,6 +58,10 @@
 
 -Ruby - Mastermind Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Mastermind)
 
+-Ruby - Guessing Game - Safa [Source](https://github.com/SafaErden/Guessing-Game) - [Live Demo](https://repl.it/@SafaErden/Guessing-Game)
+
+-Ruby - Hangman Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Hangman)
+
 ### Usage
 Just download & clone or fork and alter however you want.
 
