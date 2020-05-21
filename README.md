@@ -62,6 +62,8 @@
 
 -Ruby - Hangman Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Hangman)
 
+-Ruby - Hotel Project - Safa [Source](https://github.com/SafaErden/Hotel-Project) - [Live Demo](https://repl.it/@SafaErden/Hotel-Project)
+
 ### Usage
 Just download & clone or fork and alter however you want.
 
