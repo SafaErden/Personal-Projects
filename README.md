@@ -12,25 +12,25 @@
 
 ## Repository and Live Demo access
 
--Microverse Summit 2020 - Capstone Project - Safa [Source](https://github.com/SafaErden/Microverse-Summit) - [Live Demo](https://safaerden.github.io/Microverse-Summit/)
+-HTML/CSS - Microverse Summit 2020 - Capstone Project - Safa [Source](https://github.com/SafaErden/Microverse-Summit) - [Live Demo](https://safaerden.github.io/Microverse-Summit/)
 
--Newsweek Replica - Safa [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
+-HTML/CSS - Newsweek Replica - Safa [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
 
--TheNextWeb Replica - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
+-HTML/CSS - TheNextWeb Replica - Safa and Evanson [Source](https://github.com/SafaErden/TheNextWeb-Replica) - [Live Demo](https://safaerden.github.io/TheNextWeb-Replica/)
 
--Apple Homepage Replica - Safa [Source](https://github.com/SafaErden/Apple-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Apple-Homepage-Replica/)
+-HTML/CSS - Apple Homepage Replica - Safa [Source](https://github.com/SafaErden/Apple-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Apple-Homepage-Replica/)
 
--New York Times Article Page Replica - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
+-HTML/CSS - New York Times Article Page Replica - Safa and Ezekiel [Source](https://github.com/SafaErden/The-New-York-Times) - [Live Demo](https://rawcdn.githack.com/SafaErden/The-New-York-Times/36402d7baa68bf29302f3de1459e4b4c0e7d2fd3/index.html)
 
--Mint.com Signup Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
+-HTML/CSS - Mint.com Signup Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Mint.com-s-signup-page) - [Live Demo](https://safaerden.github.io/Mint.com-s-signup-page/)
 
--Youtube Player Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
+-HTML/CSS - Youtube Player Page Replica - Safa and Hatem [Source](https://github.com/SafaErden/Youtube-Player-Page-Replica) - [Live Demo](https://safaerden.github.io/Youtube-Player-Page-Replica/)
 
--Pure-CSS-Sidenav - Safa [Source](https://github.com/SafaErden/Pure-CSS-Sidenav) - [Live Demo](https://safaerden.github.io/Pure-CSS-Sidenav/)
+-HTML/CSS - Pure-CSS-Sidenav - Safa [Source](https://github.com/SafaErden/Pure-CSS-Sidenav) - [Live Demo](https://safaerden.github.io/Pure-CSS-Sidenav/)
 
--Google Home Page Replica - Safa [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
+-HTML/CSS - Google Home Page Replica - Safa [Source](https://github.com/SafaErden/Google-Homepage-Replica) - [Live Demo](https://safaerden.github.io/Google-Homepage-Replica/)
 
--Smashing Magazine Homepage Structure - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
+-HTML/CSS - Smashing Magazine Homepage Structure - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
 
 -Drum Kit - Safa [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
 
@@ -64,6 +64,7 @@
 
 -Ruby - Hotel Project - Safa [Source](https://github.com/SafaErden/Hotel-Project) - [Live Demo](https://repl.it/@SafaErden/Hotel-Project)
 
+-Ruby - Building Linter - Safa [Source](https://github.com/SafaErden/Lintit) 
 ### Usage
 Just download & clone or fork and alter however you want.
 
