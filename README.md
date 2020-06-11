@@ -12,6 +12,28 @@
 
 ## Repository and Live Demo access
 
+-Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+
+-Rails - Blog App - Safa and Christopher [Source](https://github.com/SafaErden/Blog-App)
+
+-Rails - My First Rails App - Safa [Source](https://github.com/SafaErden/my_first_rails_app)
+
+-Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
+
+-Ruby - Enumerables Rewrite - Safa [Source](https://github.com/SafaErden/Enumerables) - [Live Demo](https://repl.it/@SafaErden/My-Enumerable-Methods)
+
+-Ruby - TicTacToe Game - Safa and Kevin [Source](https://github.com/SafaErden/TicTacToe) - [Live Demo](https://repl.it/@SafaErden/Tic-Tac-Toe)
+
+-Ruby - Battleship Game - Safa [Source](https://github.com/SafaErden/BattleShip) - [Live Demo](https://repl.it/@SafaErden/Battle-Ship)
+
+-Ruby - Mastermind Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Mastermind)
+
+-Ruby - Guessing Game - Safa [Source](https://github.com/SafaErden/Guessing-Game) - [Live Demo](https://repl.it/@SafaErden/Guessing-Game)
+
+-Ruby - Hangman Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Hangman)
+
+-Ruby - Hotel Project - Safa [Source](https://github.com/SafaErden/Hotel-Project) - [Live Demo](https://repl.it/@SafaErden/Hotel-Project)
+
 -HTML/CSS - Microverse Summit 2020 - Capstone Project - Safa [Source](https://github.com/SafaErden/Microverse-Summit) - [Live Demo](https://safaerden.github.io/Microverse-Summit/)
 
 -HTML/CSS - Newsweek Replica - Safa [Source](https://github.com/SafaErden/Newsweek) - [Live Demo](https://safaerden.github.io/Newsweek/)
@@ -32,37 +54,19 @@
 
 -HTML/CSS - Smashing Magazine Homepage Structure - Safa and Evanson [Source](https://github.com/SafaErden/Smashing-Magazine-Homepage) - [Live Demo](https://safaerden.github.io/Smashing-Magazine-Homepage/)
 
--Drum Kit - Safa [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
+-Precourse - Drum Kit - Safa [Source](https://github.com/SafaErden/Drum-Kit) - [Live Demo](https://safaerden.github.io/Drum-Kit/)
 
--Etch a Sketch - Safa [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
+-Precourse - Etch a Sketch - Safa [Source](https://github.com/SafaErden/Etch-a-sketch) - [Live Demo](https://safaerden.github.io/Etch-a-sketch/)
 
--Rock Paper Scissors - Safa [Source](https://github.com/SafaErden/Rock-Paper-Scissors) - [Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
+-Precourse - Rock Paper Scissors - Safa [Source](https://github.com/SafaErden/Rock-Paper-Scissors) - [Live Demo](https://safaerden.github.io/Rock-Paper-Scissors/)
 
--Draw Random Circles - Safa [Source](https://github.com/SafaErden/Draw-Random-Circles) - [Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
+-Precourse - Draw Random Circles - Safa [Source](https://github.com/SafaErden/Draw-Random-Circles) - [Live Demo](https://safaerden.github.io/Draw-Random-Circles/)
 
--Calculator - Safa [Source](https://github.com/SafaErden/Calculator) - [Live Demo](https://safaerden.github.io/Calculator/)
+-Precourse - Calculator - Safa [Source](https://github.com/SafaErden/Calculator) - [Live Demo](https://safaerden.github.io/Calculator/)
 
--Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+-Precourse - Collaborative Project - Safa and Henrik [Source](https://github.com/SafaErden/Safa-and-Henrik) - [Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
 
--Collaborative Project - Safa and Henrik [Source](https://github.com/SafaErden/Safa-and-Henrik) - [Live Demo](https://safaerden.github.io/Safa-and-Henrik/)
-
--Collaborative Project - Safa and Abdelrahman [Source](https://github.com/SafaErden/Safa-and-Abdelrahman) - [Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
-
--Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
-
--Ruby - Enumerables Rewrite - Safa [Source](https://github.com/SafaErden/Enumerables) - [Live Demo](https://repl.it/@SafaErden/My-Enumerable-Methods)
-
--Ruby - TicTacToe Game - Safa and Kevin [Source](https://github.com/SafaErden/TicTacToe) - [Live Demo](https://repl.it/@SafaErden/Tic-Tac-Toe)
-
--Ruby - Battleship Game - Safa [Source](https://github.com/SafaErden/BattleShip) - [Live Demo](https://repl.it/@SafaErden/Battle-Ship)
-
--Ruby - Mastermind Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Mastermind)
-
--Ruby - Guessing Game - Safa [Source](https://github.com/SafaErden/Guessing-Game) - [Live Demo](https://repl.it/@SafaErden/Guessing-Game)
-
--Ruby - Hangman Game - Safa [Source](https://github.com/SafaErden/Mastermind) - [Live Demo](https://repl.it/@SafaErden/Hangman)
-
--Ruby - Hotel Project - Safa [Source](https://github.com/SafaErden/Hotel-Project) - [Live Demo](https://repl.it/@SafaErden/Hotel-Project)
+-Precourse - Collaborative Project - Safa and Abdelrahman [Source](https://github.com/SafaErden/Safa-and-Abdelrahman) - [Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
 
 -Ruby - Building Linter - Safa [Source](https://github.com/SafaErden/Lintit) 
 ### Usage
