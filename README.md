@@ -18,6 +18,8 @@
 
 -Rails - My First Rails App - Safa [Source](https://github.com/SafaErden/my_first_rails_app)
 
+-Ruby - Building Linter - Safa [Source](https://github.com/SafaErden/Lintit) 
+
 -Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
 
 -Ruby - Enumerables Rewrite - Safa [Source](https://github.com/SafaErden/Enumerables) - [Live Demo](https://repl.it/@SafaErden/My-Enumerable-Methods)
@@ -68,7 +70,6 @@
 
 -Precourse - Collaborative Project - Safa and Abdelrahman [Source](https://github.com/SafaErden/Safa-and-Abdelrahman) - [Live Demo](https://safaerden.github.io/Safa-and-Abdelrahman/)
 
--Ruby - Building Linter - Safa [Source](https://github.com/SafaErden/Lintit) 
 ### Usage
 Just download & clone or fork and alter however you want.
 
