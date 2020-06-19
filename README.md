@@ -14,6 +14,10 @@
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
+-Rails - Re-former - Safa and Christopher [Source](https://github.com/SafaErden/re-former)
+
+-Rails - Micro Reddit - Safa and Christopher [Source](https://github.com/SafaErden/Micro-Reddit)
+
 -Rails - Blog App - Safa and Christopher [Source](https://github.com/SafaErden/Blog-App)
 
 -Rails - My First Rails App - Safa [Source](https://github.com/SafaErden/my_first_rails_app)
