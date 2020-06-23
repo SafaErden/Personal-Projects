@@ -26,7 +26,7 @@
 
 -Rails - My First Rails App - Safa [Source](https://github.com/SafaErden/my_first_rails_app)
 
--Ruby - Building Linter - Safa [Source](https://github.com/SafaErden/Lintit) 
+-Ruby - Building Linter - Capstone Project - Safa [Source](https://github.com/SafaErden/Lintit) 
 
 -Ruby - Bubble Sort - Safa and Kevin [Source](https://github.com/SafaErden/Bubble-Sort)
 
