@@ -8,7 +8,8 @@
 - HTML,
 - CSS, Bootstrap,
 - Javascript,
-- Ruby.
+- Ruby,
+- Rails.
 
 ## Repository and Live Demo access
 
