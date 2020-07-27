@@ -15,6 +15,8 @@
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
+-Rails - Flicker Scraper - Safa [Source](https://github.com/SafaErden/Flicker-Scraper)
+
 -Rails - Book Store - Safa [Source](https://github.com/SafaErden/Book-Store)
 
 -Rails - Members Only - Safa and Christopher [Source](https://github.com/krys2fa/members-only)
