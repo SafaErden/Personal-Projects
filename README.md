@@ -15,9 +15,13 @@
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
+-JavaScript - TicTacToe - Safa and Phillip [Source](https://github.com/SafaErden/TicTacToe-Javascript) - [Live Demo](https://rawcdn.githack.com/SafaErden/TicTacToe-Javascript/1684e65107f30bc98486f3d0a39f02a4d4cd09cc/index.html)
+
+-JavaScript - Library - Safa and Phillip [Source](https://github.com/SafaErden/Project-Library) - [Live Demo](https://rawcdn.githack.com/SafaErden/Project-Library/6cee52a4b024aa2be7038f1512d2b96b02475d75/index.html)
+
 -Rails - Flicker Scraper - Safa [Source](https://github.com/SafaErden/Flicker-Scraper)
 
--Rails - Book Store - Safa [Source](https://github.com/SafaErden/Book-Store)
+-Rails - Book Store - Capstone Project - Safa [Source](https://github.com/SafaErden/Book-Store)
 
 -Rails - Members Only - Safa and Christopher [Source](https://github.com/krys2fa/members-only)
 
