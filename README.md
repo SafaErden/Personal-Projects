@@ -17,6 +17,8 @@
 
 -JavaScript - Weather App - Safa [Source](https://github.com/SafaErden/Weather-App) - [Live Demo](https://safaerden.github.io/Weather-App/)
 
+-JavaScript - Not Todo List - Safa and Phillip [Source](https://github.com/SafaErden/Not-Todo-List) - [Live Demo](https://safaerden.github.io/Not-Todo-List/)
+
 -JavaScript - Restaurant Page - Safa [Source](https://github.com/SafaErden/Restaurant-Page) - [Live Demo](https://safaerden.github.io/Restaurant-Page/)
 
 -JavaScript - TicTacToe - Safa and Phillip [Source](https://github.com/SafaErden/TicTacToe-Javascript) - [Live Demo](https://rawcdn.githack.com/SafaErden/TicTacToe-Javascript/1684e65107f30bc98486f3d0a39f02a4d4cd09cc/index.html)
