@@ -15,6 +15,10 @@
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
+-JavaScript - Endless Runner Game / Icy Tower - Safa [Source](https://github.com/SafaErden/IcyTower) - [Live Demo](https://github.com/SafaErden/IcyTower)
+
+-JavaScript - Testing TicTacToe with Jest - Safa and Phillip [Source](https://github.com/SafaErden/TicTacToe-Javascript/tree/test)
+
 -JavaScript - Weather App - Safa [Source](https://github.com/SafaErden/Weather-App) - [Live Demo](https://safaerden.github.io/Weather-App/)
 
 -JavaScript - Not Todo List - Safa and Phillip [Source](https://github.com/SafaErden/Not-Todo-List) - [Live Demo](https://safaerden.github.io/Not-Todo-List/)
