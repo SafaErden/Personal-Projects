@@ -15,6 +15,8 @@
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
+-React - TicTacToe Tutorial - Safa [Source](https://github.com/SafaErden/React-TicTacToe) - [Live Demo](https://reacttictactoetutorial.herokuapp.com/)
+
 -JavaScript - Endless Runner Game / Icy Tower - Safa [Source](https://github.com/SafaErden/IcyTower) - [Live Demo](https://github.com/SafaErden/IcyTower)
 
 -JavaScript - Testing TicTacToe with Jest - Safa and Phillip [Source](https://github.com/SafaErden/TicTacToe-Javascript/tree/test)
