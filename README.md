@@ -13,7 +13,9 @@
 
 ## Repository and Live Demo access
 
--Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
+-Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/React-Calculator) - [Live Demo](https://safa-calculator.herokuapp.com/)
+
+-React - Calculator - Safa [Source](https://github.com/SafaErden/React-TicTacToe) - [Live Demo](https://reacttictactoetutorial.herokuapp.com/)
 
 -React - TicTacToe Tutorial - Safa [Source](https://github.com/SafaErden/React-TicTacToe) - [Live Demo](https://reacttictactoetutorial.herokuapp.com/)
 
