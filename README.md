@@ -13,9 +13,11 @@
 
 ## Repository and Live Demo access
 
--Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/React-Calculator) - [Live Demo](https://safa-calculator.herokuapp.com/)
+-Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
--React - Calculator - Safa [Source](https://github.com/SafaErden/React-TicTacToe) - [Live Demo](https://reacttictactoetutorial.herokuapp.com/)
+-React - Book Store - Safa and Taiwo [Source](https://github.com/SafaErden/React-Bookstore) - [Live Demo](https://taiwo-safa-bookstore.herokuapp.com/)
+
+-React - Calculator - Safa [Source](https://github.com/SafaErden/React-Calculator) - [Live Demo](https://safa-calculator.herokuapp.com/)
 
 -React - TicTacToe Tutorial - Safa [Source](https://github.com/SafaErden/React-TicTacToe) - [Live Demo](https://reacttictactoetutorial.herokuapp.com/)
 
