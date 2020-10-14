@@ -1,6 +1,6 @@
 # This README file provides direct access to all my projects' source codes and their live links.
 
-** Feel free to contribute and give feedbacks.
+Feel free to contribute and give feedbacks.
 
 
 ## These projects are built with;
