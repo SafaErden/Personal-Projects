@@ -126,7 +126,3 @@ Contributions, issues and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like my projects!
-
-## 📝 License
-
-My projects are [MIT](lic.url) licensed.
