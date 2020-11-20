@@ -15,7 +15,7 @@ Feel free to contribute and give feedbacks.
 
 -Regex Validation Exapmle -Safa [Source](https://github.com/SafaErden/Regex-Validation-Exapmle) - [Live Demo](https://safaerden.github.io/Regex-Validation-Exapmle/)
 
--React - Macroverswe Appointments - Safa [Source](https://github.com/SafaErden/Appointments) - [Live Demo](https://macroappointment.netlify.app/)
+-React - Macroverse Appointments - Safa [Source](https://github.com/SafaErden/Appointments) - [Live Demo](https://macroappointment.netlify.app/)
 
 -React - Investit - Safa [Source](https://github.com/SafaErden/Investit) - [Live Demo](https://happy-swirles-471fcd.netlify.app/)
 
